@@ -1,1 +1,2 @@
-# This is the ReadMe file
+# README FILE
+# check the chapters in order.
